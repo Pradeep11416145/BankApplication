@@ -1,6 +1,6 @@
 package com.javaInterviewPractice;
 
-public class Palidrom {
+public class Palidrom {// PALIDROM
 	public static void main(String[] args) {
 		
 	int reminder;
