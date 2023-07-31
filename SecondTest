@@ -1,0 +1,19 @@
+package com.javaInterviewPractice;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class bufferWriter {
+	
+	public static void main(String[] args) throws Exception {
+		
+		FileWriter f1=new FileWriter("C:\\Users\\maury\\OneDrive\\Desktop\\text");
+		BufferedWriter b1= new BufferedWriter(f1);
+		b1.write("welcome in java");
+		b1.close();
+		System.out.println("succes");
+		
+	}
+
+}
