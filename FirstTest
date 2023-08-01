@@ -3,7 +3,7 @@ package com.javaInterviewPractice;
 public class Palidrom {// PALIDROME
 	public static void main(String[] args) {
 		
-	int reminder;
+	int reminder;// THIS IS REMINDERE
 	int sum=0;
 	int number = 2442 ;
 	int tempororyNumber=number;
